@@ -121,8 +121,6 @@ The Workflow module combines all tools into a single pipeline:
 4. **Email Debounce**: Advanced deliverability checking
 5. **Export**: Save final results
 
-
-
 ## 🔒 Security Features
 
 ### Input Validation
@@ -223,8 +221,6 @@ set BRAIN_DEBUG=1
 5. Run tests and security checks
 6. Submit a pull request
 
-
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -238,7 +234,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Contact
 
-- **Telegram**: [@iampopg](https://t.me/iampopg)
+- **Telegram**: [@b](https://t.me/brain_lead)rain_lead
 - **Issues**: GitHub Issues page
 - **Email**: Contact through Telegram for support
 
