@@ -2,7 +2,7 @@
 
 ![Brain Lead Logo](logo.png)
 
-Brain Lead is a comprehensive windows application for lead generation, validation, and management. It provides powerful tools for generating, validating, and processing email addresses and phone numbers with advanced carrier detection and API integration capabilities.
+Brain Lead is a comprehensive windows application for lead generation, validation, and management. It provides powerful tools for generating, validating, and processing email addresses and phone numbers with advanced carrier detection and API integration capabilities..
 
 ## 🚀 Features
 
