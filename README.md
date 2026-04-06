@@ -234,7 +234,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Contact
 
-- **Telegram**: [@b](https://t.me/brain_lead)rain_lead
+- **Telegram**: [@brain_lead](https://t.me/brain_lead)
 - **Issues**: GitHub Issues page
 - **Email**: Contact through Telegram for support
 
